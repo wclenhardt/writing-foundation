@@ -1,0 +1,49 @@
+# Title
+Agile Data Curation: Introduction and Conceptual Foundation
+
+# Authors
+Karl Kent Benedict\
+W. Christopher Lenhardt\
+Joshua Young
+
+# Author Affiliations
+University of New Mexico\
+Renaissance Computing Institute (RENCI)\
+Unidata
+
+# Corresponding Author's Email Address
+kbene@unm.edu
+
+
+
+# Biographical Statement
+
+# Abstract
+
+This is the abstract
+
+# Introduction
+
+This is the introduction
+
+# Methods
+
+These are our methods
+
+
+# Discussion
+
+This is our discussion
+
+
+# Conclusions
+
+These are our conclusions
+
+# Acknowledgements
+
+This would not have been possible without ...
+
+# References Cited
+
+Here are our references
