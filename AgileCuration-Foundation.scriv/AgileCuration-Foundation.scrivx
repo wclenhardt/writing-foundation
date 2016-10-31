@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Karls-MacBook-Pro" Modified="2016-10-30 21:52:15 -0600" ModID="891E06FB-CBB3-4373-B2F8-BC8834FC4B1D">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="UL0100MAC" Modified="2016-10-31 17:00:52 -0600" ModID="16DC69D4-5EB3-44AE-BFBA-2D18995B6541">
     <Binder>
         <BinderItem ID="0" UUID="30A31FD1-4B1B-46BB-B71A-510347DE1CEA" Type="DraftFolder" Created="2016-10-27 14:05:32 -0600" Modified="2016-10-27 14:05:32 -0600">
             <Title>Draft</Title>
@@ -49,14 +49,14 @@
                                 <Target Type="Words" Notify="No">250</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="4" UUID="93CD72BA-AB6F-4577-B9A8-4930B1AE5183" Type="Text" Created="2016-10-27 14:33:58 -0600" Modified="2016-10-30 21:50:12 -0600">
-                            <Title>Introduction</Title>
+                        <BinderItem ID="4" UUID="93CD72BA-AB6F-4577-B9A8-4930B1AE5183" Type="Text" Created="2016-10-27 14:33:58 -0600" Modified="2016-10-31 17:00:37 -0600">
+                            <Title>Overview</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2204,0</TextSelection>
+                                <TextSelection>4447,0</TextSelection>
                                 <Target Type="Words" Notify="No">750</Target>
                             </TextSettings>
                         </BinderItem>
@@ -175,7 +175,7 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="8F5F1904-98F3-48CB-A38F-5B712915AE74" Color="0.784753 0.815752 0.848702">
+        <Collection Type="Binder" ID="8F5F1904-98F3-48CB-A38F-5B712915AE74" Color="0.962266 0.962266 0.962266">
             <Title>Binder</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="6BF34D50-A45A-4C29-A427-1ECC0C6E2429" Color="0.922 0.91 0.98">
@@ -206,7 +206,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-10-27 14:05:31 -0600" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-10-31 07:57:18 -0600"></PreviousSession>
+        <PreviousSession Words="222" Characters="1600" Date="2016-10-31 08:09:04 -0600"></PreviousSession>
     </ProjectTargets>
     <ProjectReferences>
         <Reference Destination="file:///Users/kbene/Repos/AgileCuration_writing-foundation/agile_data_curation.bib">agile_data_curation</Reference>
