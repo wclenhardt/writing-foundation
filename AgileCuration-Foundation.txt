@@ -51,8 +51,10 @@ Following the model developed by the agile software development communityThe set
 
 The objective of this paper is to propose^[link to a web site where community input can be collected and collated into something like the *Manifesto*] a set of *agile data curation* values and principles that parallel those developed by members of the software development community, but reflect the distinctive characteristics and challenges posed by the research data process and its products. 
 
-* Continuum from "Engineered" <==> "Agile" <==> "Ad-hoc"
+* Continuum from "Engineered" <==> "Agile" <==> "Ad-hoc" (Josh)
 	* Technical debt as another dimension for characterizing 
+		* Model technical debt as increasing cost/reuse value as time passes
+		* Data entropy as a dimension (increased investment in metadata, data structure, preservation can reduce the slope for the entropy curve)
 	* Dimensions to think about:
 		* Required Formats
 		* Required data schemas
@@ -63,20 +65,24 @@ The objective of this paper is to propose^[link to a web site where community in
 * Recognize cost of capture/creation, management, sharing and preservation and build prioritization into decision making about what products/parameters are maintained within the system. 
 
 
-# Methods
+# Methods (1000)
+
+** note: Justification of use of agile principles for activities outside of software engineering**
 
 For the development of the design patterns we have a three-part approach. First we are comparing and contrasting the current generally accepted/representative models which guide data curation with the key concepts of agile development. The goal is to see how easily the zen of agile software can map to data curation in the abstract. 
 
 Our second activity is to gather case study data that illustrate extant practices that reasonably fit the ethos (read conceptual framework) of agile curation. Cases are self-selected at this point by the submitter as an example of an agile curation process. [Do we want to include an example of a case?]
 
+** note: design patterns as an alternative conceptual model for "best practices" [granular] and/or lifecycle [abstract] approaches**
+
 
 # Discussion
 
-1. Concept mapping - have done this, capture here. Talk about vetting of this so far by community. i.e. the papers / posters / sessions we've had to date.  What have we learned. What are the areas of push-back?
+1. Concept mapping (Josh - 800-1000) - have done this, capture here. Talk about vetting of this so far by community. i.e. the papers / posters / sessions we've had to date.  What have we learned. What are the areas of push-back?
 
-2. Case studies - in process, developed tool to capture examples. 
+2. Case studies (Chris - 800-1000) - in process, developed tool to capture examples. 
 
-3. Proposed design pattern process - 
+3. Proposed design pattern process (Karl - 800-1000) - 
 
 
 # Conclusions
