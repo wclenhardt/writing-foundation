@@ -40,6 +40,36 @@ Figure @fig:continuum illustrates a number of the shared and different character
 
 ![Illustration comparing software development and data curation activities along a continuum between *engineered* and *ad-hoc* highlighting a range of characteristics associated with with each activity, and the mid-point along the continuum where an agile approach can hopefully achieve a balance between the two extremes.](agileComparison-01.png){#fig:continuum}
 
+# Methods (1000)
+
+The idea of taking agile development concepts and approaches and applying them to other domains beside software development is not new as evidenced by the literature.  Alternative applications range from responses to humanitarian supply chain [ftnt] to ...The application of agile principles outside of software engineering has been done many times over. Examples include....** note: Justification of use of agile principles for activities outside of software engineering**
+
+For the development of the design patterns we have a three-part approach. First we are developing our high level conceptual framework by comparing and contrasting the current generally accepted data curation models with the key concepts of agile development. The goal is to verify that agile development concepts have reasonable analogs in the curation context and to more fully develop the agile curation high level conceptual framework and to vet this with the relevant communities. 
+
+Our second activity is to use a case study approach to gather data that illustrate extant practices that reasonably fit the ethos (read conceptual framework) of agile curation. Cases are self-selected at this point by the submitter as an example of an agile curation process. [Do we want to include an example of a case?]
+
+Third activity is to synthesize the conceptual framework with the data gathered from the case studies to develop representative design patterns for curation.
+** note: design patterns as an alternative conceptual model for "best practices" [granular] and/or lifecycle [abstract] approaches**
+
+
+# Discussion
+
+1. Concept mapping (Josh - 800-1000) - have done this, capture here. Talk about vetting of this so far by community. i.e. the papers / posters / sessions we've had to date.  What have we learned. What are the areas of push-back?
+
+2. Case studies (Chris - 800-1000) - We consider the case studies we gather as the main source of data for this project. The case studies we gather will constitute examples already in the wild that help to identify aspects of agile curation already in practice, albeit in a less formalized way. 
+
+3. Proposed design pattern process (Karl - 800-1000) - 
+
+
+# Conclusions
+
+These are our conclusions
+
+# Acknowledgements
+
+This would not have been possible without ...
+
+# References Cited
 
 
 
@@ -65,33 +95,4 @@ The objective of this paper is to propose^[link to a web site where community in
 * Recognize cost of capture/creation, management, sharing and preservation and build prioritization into decision making about what products/parameters are maintained within the system. 
 
 
-# Methods (1000)
-
-** note: Justification of use of agile principles for activities outside of software engineering**
-
-For the development of the design patterns we have a three-part approach. First we are comparing and contrasting the current generally accepted/representative models which guide data curation with the key concepts of agile development. The goal is to see how easily the zen of agile software can map to data curation in the abstract. 
-
-Our second activity is to gather case study data that illustrate extant practices that reasonably fit the ethos (read conceptual framework) of agile curation. Cases are self-selected at this point by the submitter as an example of an agile curation process. [Do we want to include an example of a case?]
-
-** note: design patterns as an alternative conceptual model for "best practices" [granular] and/or lifecycle [abstract] approaches**
-
-
-# Discussion
-
-1. Concept mapping (Josh - 800-1000) - have done this, capture here. Talk about vetting of this so far by community. i.e. the papers / posters / sessions we've had to date.  What have we learned. What are the areas of push-back?
-
-2. Case studies (Chris - 800-1000) - in process, developed tool to capture examples. 
-
-3. Proposed design pattern process (Karl - 800-1000) - 
-
-
-# Conclusions
-
-These are our conclusions
-
-# Acknowledgements
-
-This would not have been possible without ...
-
-# References Cited
 
